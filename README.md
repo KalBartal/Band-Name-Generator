@@ -1,6 +1,6 @@
 # Band Name Generator
 
-This is my coding challenge submission for day #1 of the 100 Days of (Python)Code - instructor-led training.
+This is my coding challenge submission for day #1 of the 100 Days of Code: The Complete Python Pro Bootcamp - instructor-led training.
 
 This simple application takes 2 inputs and generates a band name from them. 
 
